@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Mon Site Gratuit</title>
+    <style>
+        body { font-family: Arial; background: #f0f0f0; text-align: center; padding: 50px; }
+        h1 { color: #333; }
+    </style>
+</head>
+<body>
+    <h1>Bienvenue sur mon site gratuit !</h1>
+    <p>Créé sans applications, juste du code.</p>
+</body>
+</html>
